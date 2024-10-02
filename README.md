@@ -5,22 +5,22 @@ A React application for browsing and searching movies, integrated with Firebase 
 ## Setup
 
 1. Clone the repository:
-   git clone https://github.com/sahilvats22/netflix-gpt
+   git clone https://github.com/NAVKET/netflix-gpt
    
-2. Install dependencies:
+3. Install dependencies:
    npm install
    
-3. Set up Firebase:
+4. Set up Firebase:
    - Create a Firebase project and obtain your Firebase configuration.
    - Enable Email/Password authentication.
    - If you want to use my Firebase account, the setup is already done.
      
-4. Get TMDB API key:
+5. Get TMDB API key:
    - Register at [TMDB](https://www.themoviedb.org/documentation/api) to obtain an API key.
    - Update the `.env` file with your TMDB API key:
      REACT_APP_TMDB_API_KEY=your-api-key
      
-5. Start the app:
+6. Start the app:
    npm start
    
 ## Usage
