@@ -45,7 +45,8 @@ A React application for browsing and searching movies, integrated with Firebase 
 - **TMDB API**: Source for fetching movie data.
 - **OpenAI**: Used for searching and retrieving movie links from TMDB.
 
-## Features
+## Features  updated 
+'
 
 - **User Authentication**: Sign up and log in to access the application.
 - **Browse Movies**: Explore a curated selection of movies from TMDB.
